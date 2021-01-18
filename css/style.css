@@ -1,0 +1,33 @@
+body{
+    font: 20px Arial, Helvetica, sans-serif;
+}
+
+.logo{
+    margin-left: 100px;
+}
+.navbar{
+    background-color: white;
+}
+
+.quem-somos{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(37, 37, 37, 0.5));
+    color: white;
+}
+
+.margin{
+    padding-top: 5px;
+    padding-bottom: 50px;
+}
+
+#parceiros{
+    color:rgb(87, 87, 87);
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
+.servicos{
+    background: linear-gradient(rgb(128, 128, 236), rgb(245, 148, 2));
+}
